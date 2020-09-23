@@ -354,7 +354,7 @@ a, button {
 }
 
 
-#st5-input[type="text"]::placeholder {
+#st5-input[type="email"]::placeholder {
   padding: 13px 277px 13px 24px;
   width: 39px;
   height: 20px;
