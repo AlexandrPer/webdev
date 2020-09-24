@@ -502,10 +502,6 @@ a, button {
   transform: rotate(-90deg);
 }
 
-button:hover, button img:hover {
+button:hover {
   background: #009cc2;
-}
-
-a:hover {
-  border-bottom: 1px solid #fff;
 }
