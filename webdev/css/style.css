@@ -50,7 +50,7 @@ a, button {
   opacity: 0.8;
 }
 
-.header-link:nth-child(1):hover {
+.header-link:nth-child(1) {
   border-bottom: 1px solid #fff;
 }
 
@@ -500,4 +500,8 @@ a, button {
   height: 0px;
   border: 1px solid #4E4E4E;
   transform: rotate(-90deg);
+}
+
+button:hover {
+  background: #009cc2;
 }
