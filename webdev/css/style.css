@@ -505,3 +505,7 @@ a, button {
 button:hover {
   background: #009cc2;
 }
+
+button img:hover {
+  background: #009cc2;
+}
