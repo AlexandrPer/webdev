@@ -50,18 +50,27 @@ a, button {
   opacity: 0.8;
 }
 
+.header-link:hover{
+  background-color: blue;
+  border-radius: 5px;
+}
 .header-link:nth-child(1) {
   border-bottom: 1px solid #fff;
+  padding: 8px;
 }
 
 .header-link:nth-child(2) {
-  padding-left: 85px;
+  margin-left: 85px;
+  padding: 8px;
 }
 
 .header-link:nth-child(4) {
-  padding-right: 85px;
+  margin-right: 85px;
+  padding: 8px;
 }
-
+.header-link:nth-child(5) {
+  padding: 8px;
+}
 .header-logo {
   padding-right: 100px;
   padding-left: 100px;
